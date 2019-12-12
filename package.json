@@ -1,0 +1,26 @@
+{
+  "name": "unit-09-node.js-and-es6-homework-developer-profile-generator",
+  "version": "1.0.0",
+  "description": "AS A product manager I WANT a developer profile generator  so thatI can easily prepare reports for stakeholders..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david197116/Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david197116/Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/david197116/Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "electron": "^7.1.4",
+    "electron-html-to": "^2.6.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0"
+  }
+}
